@@ -1,2 +1,1 @@
-# libcli
-Jyothi's Command-Line Interface Library
+# Jyothi's Command-Line Interface Library (libcli)
